@@ -3,39 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\X1 User\Documents\GitHub\ATLAS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\X1 User\Documents\GitHub\ATLAS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_404d375eb725333d5c37d582bc7ba0707f7fbfba\classes.dex" />
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dab838d25e0f1ee94c4c2e327881ab905531f39\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\X1 User\Documents\GitHub\ATLAS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="212a9ea150f7cd12e29782d401ced8d325c83865">
-        <dex dex="C:\Users\X1 User\Documents\GitHub\ATLAS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b9dabfd798a0173a8a26c98cdc8847e358f54dd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\X1 User\.android\build-cache\030ab630cdf1654c511f379188f6c96559a8953d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\X1 User\Documents\GitHub\ATLAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16d9bd53f4dbde232d4f8024355aabc01772cffe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\X1 User\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\X1 User\Documents\GitHub\ATLAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_05c0048715a6947b736e929840350353d7283ea4\classes.dex" />
+        sha1="3110f045c2e07b2c85841da4f870f31c49f7f7be">
+        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9f02cf5b0d40dad56393bb14b981de36abe9adce\classes.dex" />
     </item>
 
 </items>
