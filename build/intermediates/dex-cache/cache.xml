@@ -2,175 +2,238 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\99395619f62d6e1dbe1d057db61512ecf8c96db7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc95deb131e9eb6c81b64fb9165168ca26633fa4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\3bf9e02f23aa67930d319382a0f02de49f807266\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c8266547b0cb93ff0144b77894b623a22557f3e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\f2e8aa936b059cb9c183b81bb73ee7302b769d8e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_269c491c918b6900d8c1ccd88ea06d0ac932c0d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\47b42627068c87c284319b9800cbab117924ba7b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d4d4e716fc437419658d84ca944b3bc08f8cce3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\4a4e7d10b117c6922583712a21939da6797eecd2\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\e271f31ef0f2e154251e8df41b4e7af047d73936\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8894568b0e2c057779b4f7c62690eac47e8be24\classes.dex" />
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_61d44d6fedac2f88c098b4a900ed1216deb55997.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\baa4b5d6c3766d1a35e60cf7ab6c648c901f2799\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_382172adaf96abb65c9cc904aefa9550985244af\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\10cc31c328fddf4ae92878f7c2a2dd1737b84a02\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bca6f7af330e465978e5c4e1f3584e0e9be4fe1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\53b0979f33b7c5d1072c3fda1630e5c36b7c301f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39322ef9d455623e459f9f3eeacc2a8f092f7d4d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\d33bc7e481163f0249b0221b2ca4bfe5169f23ee\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c26b4358d39c300e9a13a99d812b04e68d9374dd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\008c0076713391e3c03d6ed507dc37c39b150353\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\ad7183f39a0889979526fe39c3b897a62c1173e6\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e52d7eb49158e04cafaeed811e58311a08ad34a\classes.dex" />
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_ad49cf0f987d160d86f77e4b4f3ff6b522e6e697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\622fdf1cc94a35b3e1febbd8365732b491cfa3cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_87b58c953a6f651f05083cd1bb848d5a75178c39.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\2f1bbf819ac4dcfbb6adb004ce404d8f38c0060a\output\jars\classes.jar"
+        jar="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6177c27b7f36c2739cedcb34031dd5a6fda16371\classes.dex" />
+        sha1="825ade92e90735684903bae017d3c167d358b522">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7dd862bef111b3bb03a8941c055b88f1c1fa669b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ce0d2f1bf7a38729cad4f0926c1738ade490b262">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9f02cf5b0d40dad56393bb14b981de36abe9adce\classes.dex" />
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4a1b29f09b662a1dda1607639564e2d2deba59ea\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\c17b0eaab48557304ccd0f36828c3c546b6054e4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b17283d320d81e5e121b4d4f4b5e4b035dc82ab2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dab838d25e0f1ee94c4c2e327881ab905531f39\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\88410d738e6b805f333c6b2f10a9e2f241665448\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\80b51ad7929e617ff54f66277080157856baefc9\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80d0c154503a6aecfcafe5e2ccf381dae01f7020\classes.dex" />
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_76d7d253688d78eb962bb3a7229b249a771c40c2.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\0613eebe8c7fd18dfc7cc6c26624a71bdad19d6f\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\16456e5acf1f7f60fb9881664f2a9f10195cf83c\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d335c88662763f1b87a839cf1c3ae04db886246\classes.dex" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_58c92ee660936ed091b0e8308584b014b589f02a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\fbe46c7923cb9596f12d2d94daeb4d77eb7877e4\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\e43ba01946f4a73b094ed8f8428d46b2bfbd4523\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39ec5ef3d737fd8cb09879e48d85614bda8f59bd\classes.dex" />
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_54adbea0565a5f87123de90ca177fab0e02b05b7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\X1 User\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_05c0048715a6947b736e929840350353d7283ea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\6ca46c96b8b5957c803e9f7e4cf3388b2f7727e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_6edbc2170a1e3e610a48b5161b309743458a891a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\8b14950d1637b90d7d36e8311991f99bec52ea75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_b9adb16e135d0eab8a7839986b167cbbf9885a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\9933efacabc8bc04f926cb50738fe86dab842c66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_07cc590e9d7775b3202ce5ad3868238f5f945193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\42af642f44374b9c1c46f53b4536c230ee734971\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_2feed53b8a358b0ae6399a56f060f71747bdbf16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_cc2a35b983317e2aab3aadb2425a36d8be151288\classes.dex" />
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_39388686ce7cca55ecf5e7b0d2be5db5e0e2a241.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Vivian\.android\build-cache\5be301de15ff18c8f0ea31f45120ec793c65afbc\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\b2b81c3fdcb1c0a347bfa84d2c284b040ddc0bb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_ccecfc339ae6f61247c6e978499df97dfba67ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\09a14d178a4e701da9031201b896d98ae7afd917\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_aef20f6fa10a7160874ecf9280c7413ac1c720a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\6408f418f37b8875631eea75c1c340c660cd9639\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_6aaf7632a5218c380f28b5f9a2588cadb78bb290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\a5ccd40c9dc58fbb0eb37947d34405a0cc1c8537\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_1155ce76d942688298784a752de175fe6a4c50ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\749372b6d7c04eb5778a77432968e84735fda6b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_9300d07b35974b24920a88dd9b641f27955ea8dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\6b6606f0a6550e91ea4c637270d7bf644dd6fb4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_f577637144c52d20787d531ad8f35dde7caee9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\1337c79823c779b00d7e25e02332b1ae45d64bda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_6c7df8cf878fe1bf5feb3a9206951a4e4aee709f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\90288f3f41a929b8c5db055e5038d016aceb5275\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_d30b6fb41445c8318099edf4d61340e70342e4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\9e5f919b1a2f54ee77cabc7695f45c473f76d288\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_741adbaf399b4c6156cb7aa50ddeca78f4aa6bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\f181a5e76233c85a5aa7604516d0e7bb97b67d56\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\Users\Vivian\Documents\GitHub\CMPE131Atlas\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99508aa5e51c5e63c37ce9357d8b466a4a4112c4\classes.dex" />
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_07043c49d1976a16028043f1eb26d6886da8d912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\030ab630cdf1654c511f379188f6c96559a8953d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_16d9bd53f4dbde232d4f8024355aabc01772cffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\X1 User\.android\build-cache\a328b574a6c809f5c990067cab948705b16c75f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\X1 User\Documents\GitHub\CMPE131Atlas\app\build\intermediates\pre-dexed\debug\classes_db4b9a4895d77f2cd4a43a736d4433aff675bb17.jar" />
     </item>
 
 </items>
