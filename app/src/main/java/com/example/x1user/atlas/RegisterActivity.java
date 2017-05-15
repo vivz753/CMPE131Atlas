@@ -1,7 +1,9 @@
 package com.example.x1user.atlas;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
@@ -18,5 +20,14 @@ public class RegisterActivity extends AppCompatActivity {
         final EditText etPhoneNumber = (EditText)findViewById(R.id.etPhoneNumber);
 
         final Button bRegister = (Button)findViewById(R.id.bRegister);
+
+        bRegister.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void onClick(View v) {
+                Intent registerIntent = new Intent(RegisterActivity.this, UserAreaActivity.class);
+                startActivity(registerIntent);
+            }
+        });
     }
 }
