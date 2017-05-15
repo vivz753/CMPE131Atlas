@@ -20,6 +20,7 @@ public class LoginActivity extends AppCompatActivity {
         final EditText etPassword = (EditText)findViewById(R.id.etPassword);
 
         final Button bLogin = (Button)findViewById(R.id.bLogin);
+
         bLogin.setOnClickListener(new View.OnClickListener(){
 
             @Override
@@ -31,6 +32,7 @@ public class LoginActivity extends AppCompatActivity {
 
 
         final TextView tvRegister = (TextView)findViewById(R.id.tvRegister);
+
         tvRegister.setOnClickListener(new View.OnClickListener(){
 
             @Override
