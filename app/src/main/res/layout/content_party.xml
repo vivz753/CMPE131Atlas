@@ -8,10 +8,21 @@
     tools:context="com.example.x1user.atlas.PartyActivity"
     tools:showIn="@layout/activity_party">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/ivProfile"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.09" />
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="96dp"
+            android:layout_height="43dp" />
+    </LinearLayout>
 
 </android.support.v4.widget.NestedScrollView>

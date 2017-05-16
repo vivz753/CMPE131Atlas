@@ -28,7 +28,6 @@
         </activity>
         <activity android:name=".RegisterActivity" />
         <activity android:name=".UserAreaActivity" />
-        <activity android:name=".MessageActivity" />
         <activity android:name=".ChatActivity" />
         <activity
             android:name=".PartyActivity"
@@ -51,7 +50,8 @@
 
         <activity
             android:name=".MapsActivity"
-            android:label="@string/title_activity_maps"></activity>
+            android:label="@string/title_activity_maps" />
+        <activity android:name=".AddUsersActivity"></activity>
     </application>
 
 </manifest>
