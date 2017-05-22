@@ -32,26 +32,30 @@
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fabAdd"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/fab_margin"
-        app:backgroundTint="?android:attr/colorActivatedHighlight"
-        app:layout_anchor="@id/app_bar"
-        app:layout_anchorGravity="bottom|end"
-        app:srcCompat="@android:drawable/ic_menu_add" />
-
-    <include layout="@layout/content_party"
-        android:id="@+id/include2" />
-
     <Button
         android:id="@+id/bAdd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical|left"
-        android:text="Button"
+        android:text="Add"
+        android:visibility="gone"
         app:layout_anchor="@+id/include2"
         app:layout_anchorGravity="top|right" />
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/content_party" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabAdd"
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|left"
+        android:layout_margin="@dimen/fab_margin"
+        app:backgroundTint="@android:color/holo_purple"
+        app:rippleColor="@android:color/holo_purple"
+        app:srcCompat="@android:drawable/ic_input_add"
+        app:layout_anchor="@+id/include2"
+        app:layout_anchorGravity="top|right"/>
 
 </android.support.design.widget.CoordinatorLayout>

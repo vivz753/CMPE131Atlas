@@ -165,5 +165,6 @@
 
     <string name="pref_title_vibrate">Vibrate</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_party2">Party2Activity</string>
 
 </resources>

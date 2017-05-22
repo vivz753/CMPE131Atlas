@@ -15,14 +15,32 @@
 
         <ImageView
             android:id="@+id/ivProfile"
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
             android:layout_weight="0.09" />
 
         <TextView
             android:id="@+id/tvName"
+            android:textSize="16dp"
             android:layout_width="96dp"
             android:layout_height="43dp" />
+
+        <ImageButton
+            android:id="@+id/ibChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.09"
+            android:visibility="invisible"
+            app:srcCompat="@android:drawable/ic_dialog_email" />
+
+        <ImageButton
+            android:id="@+id/ibCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.09"
+            android:visibility="invisible"
+            app:srcCompat="@android:drawable/sym_action_call" />
+
     </LinearLayout>
 
 </android.support.v4.widget.NestedScrollView>

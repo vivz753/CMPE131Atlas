@@ -10,6 +10,7 @@ import android.media.RingtoneManager;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
+import android.preference.EditTextPreference;
 import android.preference.ListPreference;
 import android.preference.Preference;
 import android.preference.PreferenceActivity;
@@ -23,6 +24,8 @@ import android.widget.EditText;
 
 import java.util.List;
 
+import static junit.runner.BaseTestRunner.getPreference;
+
 /**
  * A {@link PreferenceActivity} that presents a set of application settings. On
  * handset devices, settings are presented as a single list. On tablets,
@@ -35,9 +38,11 @@ import java.util.List;
  * API Guide</a> for more information on developing a Settings UI.
  */
 public class SettingsActivity extends AppCompatPreferenceActivity {
+    public static String name;
 
 public static SettingsActivity settings;
-
+    //public static EditText etDisplayName = (EditText)findViewById(R.id.etDisplayName);
+//public static String s = etDisplayName.getText().toString();
     /**
      * A preference value change listener that updates the preference's summary
      * to reflect its new value.
@@ -127,6 +132,10 @@ public static SettingsActivity settings;
 
         settings = this;
 
+
+//EditTextPreference etpDisplayName = (EditTextPreference) findPreference("example_text");
+//        EditText etDisplayName = etpDisplayName.getEditText();
+//        name = etDisplayName.getText().toString();
     }
 
     /**
@@ -137,6 +146,7 @@ public static SettingsActivity settings;
         if (actionBar != null) {
             // Show the Up button in the action bar.
             actionBar.setDisplayHomeAsUpEnabled(true);
+
         }
     }
 

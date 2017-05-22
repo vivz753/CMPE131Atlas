@@ -5,8 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
-import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -20,18 +18,20 @@ public class UserAreaActivity extends AppCompatActivity {
 
 
         final TextView tvWelcomeMessage = (TextView) findViewById(R.id.tvWelcomeMsg);
+        tvWelcomeMessage.setText("Welcome");
+
 
         final Button bParty = (Button) findViewById(R.id.bParty);
-        final Button bChat = (Button) findViewById(R.id.bChat);
+        final Button bTextFeed = (Button) findViewById(R.id.bTextFeed);
         final ImageButton bAtlas = (ImageButton) findViewById(R.id.bAtlas);
         final ImageView bSettings = (ImageView) findViewById(R.id.bSettings);
 
-        bChat.setOnClickListener(new View.OnClickListener() {
+        bTextFeed.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                Intent iChat = new Intent(UserAreaActivity.this, ChatActivity.class);
-                startActivity(iChat);
+                Intent iTextFeed = new Intent(UserAreaActivity.this, TextFeedActivity.class);
+                startActivity(iTextFeed);
             }
         });
 
